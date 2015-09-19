@@ -1,0 +1,15 @@
+{
+    "name": "silverhoneymedia/hs_autoshare_listing",
+    "description": "Autoshare listing to Social Media",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Honey Silvas",
+            "email": "honeysilvas@gmail.com"
+        }
+    ],
+    "require": {
+        "tumblr/tumblr": "^0.1.1",
+        "facebook/php-sdk-v4": "^5.0"
+    }
+}
